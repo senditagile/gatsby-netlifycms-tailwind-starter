@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Sending It
 image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
-heading: Connecting People with Nature*
+heading: Sending It
 subheading: "*A Gatsby v3 starter template set up with Netlify CMS and Tailwind CSS."
 about:
   heading: Who we are
