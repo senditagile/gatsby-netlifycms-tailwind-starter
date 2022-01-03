@@ -3,7 +3,7 @@ templateKey: index-page
 title: Sending It
 image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
 heading: Sending It
-subheading: "*A Gatsby v3 starter template set up with Netlify CMS and Tailwind CSS."
+subheading: How to udpate?
 about:
   heading: Who we are
   description: Our team of architects, gardeners and enginners is working with
