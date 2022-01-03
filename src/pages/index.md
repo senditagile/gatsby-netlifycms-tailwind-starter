@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Sending It
-image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
+image: /img/tell-the-world.png
 heading: Sending It
 subheading: How to udpate?
 about:
