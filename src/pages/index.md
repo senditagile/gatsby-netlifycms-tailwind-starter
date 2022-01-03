@@ -6,9 +6,7 @@ heading: Sending It
 subheading: How to udpate?
 about:
   heading: Who we are
-  description: Our team of architects, gardeners and enginners is working with
-    clients all over the world to transform urban spaces with the best nature
-    provides.
+  description: This updates about our team
   image:
     image: /img/leon-tho1_oukbg0-unsplash.jpg
     alt: people working in agency
